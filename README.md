@@ -1,12 +1,12 @@
 # AiCore_milestone_1
 
-Task 1. Define the list of possible words
+##Task 1. Define the list of possible words
 
 Step 1: Create a list containing the names of your 5 favorite fruits.
 Step 2: Assign this list to a variable called word_list.
 Step 3: Print out the newly created list to the standard output (screen).
 
-Task 2. Choose a random word from the list
+##Task 2. Choose a random word from the list
 
 
 Step 1: Write import random on the line.
